@@ -21,7 +21,7 @@
       font-size: 2em;
       color: rgba(255,255,255,.4);
     }
-    </style>
+</style>
 <body style="background:url('bg.jpg') no-repeat;background-size:100% auto;">
     <div id="texts">
         <span id="up">SKUYAZLU</span><br>
